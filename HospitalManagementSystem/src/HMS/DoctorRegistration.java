@@ -209,11 +209,17 @@ public class DoctorRegistration extends JFrame {
 					
 					JOptionPane.showMessageDialog(null, "Registraion Complete");
 					
+					dispose();
+					DoctorLogin obj = new DoctorLogin();
+					obj.setVisible(true);
+					
 					
 				} catch (ClassNotFoundException | IOException | SQLException e1) {
 					// TODO Auto-generated catch block
 					JOptionPane.showMessageDialog(null, e1);
 				}
+				
+				
 				
 			}
 		});

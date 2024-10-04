@@ -213,7 +213,9 @@ public class PatientRegistration extends JFrame {
 					
 					JOptionPane.showMessageDialog(null, "Registration Complete");
 					
-					
+					dispose();
+					PatientLogin obj = new PatientLogin();
+					obj.setVisible(true);
 					
 					
 				} catch (ClassNotFoundException | IOException | SQLException e1) {
