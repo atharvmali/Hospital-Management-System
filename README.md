@@ -35,19 +35,61 @@ A Java-based Hospital Management System that simplifies the management of hospit
 
 ## Project Screenshots  
 
-### Login Screen  
-![Login Screen](images/login_screen.png)  
+### HomePage
+![HomePage](images/HomePage.png)  
+*This is the main landing page of the Hospital Management System, where users can choose their login type (Admin, Doctor, Patient).*  
 
-### Admin Panel  
-![Admin Panel](images/admin_panel.png)  
+### SelectLogin
+![SelectLogin](images/SelectLogin.png)  
+*The screen where users can select whether they want to log in as an Admin, Doctor, or Patient.*  
 
-### Add Doctor/Patient  
-![Add Records](images/add_records.png)  
+### AdminLogin
+![AdminLogin](images/AdminLogin.png)  
+*The login page for the Admin role where the administrator enters their credentials to access the Admin Panel.*  
 
-### View Records  
-![View Records](images/view_records.png)  
+### DoctorLogin
+![DoctorLogin](images/DoctorLogin.png)  
+*The login page for doctors where they can enter their credentials to access the Doctor Panel.*  
 
-*(Add screenshots to the `/images` folder in your project repository.)*  
+### PatientLogin
+![PatientLogin](images/PatientLogin.png)  
+*The login page for patients where they can enter their credentials to access the Patient Panel.*  
+
+### AdminPanel
+![AdminPanel](images/AdminPanel.png)  
+*The Admin Panel showing various options to add, update, delete, and view doctor and patient records.*  
+
+### PatientPanel
+![PatientPanel](images/PatientPanel.png)  
+*The Patient Panel where patients can view and manage their own profiles and records.*  
+
+### PatientProfile
+![PatientProfile](images/PatientProfile.png)  
+*The patient profile page displaying personal details and medical information.*  
+
+### DoctorPanel
+![DoctorPanel](images/DoctorPanel.png)  
+*The Doctor Panel where doctors can view patient records, schedule appointments, and update their details.*  
+
+### RegistrationPage
+![RegistrationPage](images/RegistrationPage.png)  
+*The registration page for new users, allowing doctors and patients to register by providing necessary details.*  
+
+### DoctorRegistration
+![DoctorRegistration](images/DoctorRegistration.png)  
+*The registration form specifically for doctors, where they enter professional information and credentials.*  
+
+### PatientRegistration
+![PatientRegistration](images/PatientRegistration.png)  
+*The registration form for patients to provide their personal and medical history for creating a profile.*  
+
+### DeleteUpdatePatient
+![DeleteUpdatePatient](images/DeleteUpdatePatient.png)  
+*The interface for deleting or updating patient information from the Admin Panel, with options to modify or remove records.*  
+
+### AddUpdatePatient
+![AddUpdatePatient](images/AddUpdatePatient.png)  
+*The Admin interface for adding new patient records or updating existing ones in the system.*  
 
 ---
 
