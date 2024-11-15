@@ -1,5 +1,3 @@
----
-
 # Hospital Management System  
 
 A Java-based Hospital Management System that simplifies the management of hospital operations, including handling doctors and patients' data efficiently.  
@@ -63,6 +61,4 @@ Check out the video showcasing the project's functionality:
 1. Hands-on experience with Java Swing for GUI design.  
 2. Proficiency in database management using JDBC and MySQL.  
 3. Implemented real-world application features like ComboBox and JTable.  
-4. Improved understanding of object-oriented programming and database interaction.  
-
----
+4. Improved understanding of object-oriented programming and database interaction.
