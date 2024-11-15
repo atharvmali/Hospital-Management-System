@@ -43,21 +43,9 @@ This is the main landing page of the Hospital Management System, where users can
 <img src="https://github.com/atharvmali/Hospital-Management-System/blob/master/img/SelectLogin.png" alt="SelectLogin">  
 The screen where users can select whether they want to log in as an Admin, Doctor, or Patient.
 
-### AdminLogin
-<img src="https://github.com/atharvmali/Hospital-Management-System/blob/master/img/AdminLogin.png" alt="AdminLogin">  
-The login page for the Admin role where the administrator enters their credentials to access the Admin Panel.
-
 ### AdminPanel
 <img src="https://github.com/atharvmali/Hospital-Management-System/blob/master/img/AdminPanel.png" alt="AdminPanel">
 The Admin Panel showing various options to add, update, delete, and view doctor and patient records.
-
-### PatientLogin
-<img src="https://github.com/atharvmali/Hospital-Management-System/blob/master/img/PatientLogin.png" alt="PatientLogin">
-The login page for patients where they can enter their credentials to access the Patient Panel.
-
-### PatientPanel
-<img src="https://github.com/atharvmali/Hospital-Management-System/blob/master/img/PatientPanel.png" alt="PatientPanel">  
-The Patient Panel where patients can view and manage their own profiles and records.
 
 ### PatientProfile
 <img src="https://github.com/atharvmali/Hospital-Management-System/blob/master/img/PatientProfile.png" alt="PatientProfile">  
@@ -70,10 +58,6 @@ The interface for deleting or updating patient information from the Admin Panel,
 ### AddUpdatePatient
 <img src="https://github.com/atharvmali/Hospital-Management-System/blob/master/img/AddUpdatePatient.png" alt="AddUpdatePatient">  
 The Admin interface for adding new patient records or updating existing ones in the system.
-
-### DoctorLogin
-<img src="https://github.com/atharvmali/Hospital-Management-System/blob/master/img/DoctorLogin.png" alt="DoctorLogin"> 
-The login page for doctors where they can enter their credentials to access the Doctor Panel.
 
 ### DoctorPanel
 <img src="https://github.com/atharvmali/Hospital-Management-System/blob/master/img/DoctorPanel.png" alt="DoctorPanel">
@@ -96,7 +80,7 @@ The registration form for patients to provide their personal and medical history
 ## Video Demonstration  
 Check out the video showcasing the project's functionality:  
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7247859530988933120" height="823" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+link - https://www.linkedin.com/posts/atharv-mali_java-hospitalmanagement-softwaredevelopment-activity-7247859918530072576-Gp54?utm_source=share&utm_medium=member_desktop
 
 ---
 
