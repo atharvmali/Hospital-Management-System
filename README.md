@@ -36,59 +36,59 @@ A Java-based Hospital Management System that simplifies the management of hospit
 ## Project Screenshots  
 
 ### HomePage
-![HomePage](./images/HomePage.png)  
+<img src="https://github.com/atharvmali/Hospital-Management-System/blob/master/img/HomePage.png" alt="HomePage">
 *This is the main landing page of the Hospital Management System, where users can choose their login type (Admin, Doctor, Patient).*  
 
 ### SelectLogin
-![SelectLogin](./images/SelectLogin.png)  
+<img src="https://github.com/atharvmali/Hospital-Management-System/blob/master/img/SelectLogin.png" alt="SelectLogin">  
 *The screen where users can select whether they want to log in as an Admin, Doctor, or Patient.*  
 
 ### AdminLogin
-![AdminLogin](./images/AdminLogin.png)  
+<img src="https://github.com/atharvmali/Hospital-Management-System/blob/master/img/AdminLogin.png" alt="AdminLogin">  
 *The login page for the Admin role where the administrator enters their credentials to access the Admin Panel.*  
 
 ### DoctorLogin
-![DoctorLogin](./images/DoctorLogin.png)  
+<img src="https://github.com/atharvmali/Hospital-Management-System/blob/master/img/DoctorLogin.png" alt="DoctorLogin"> 
 *The login page for doctors where they can enter their credentials to access the Doctor Panel.*  
 
 ### PatientLogin
-![PatientLogin](./images/PatientLogin.png)  
+<img src="https://github.com/atharvmali/Hospital-Management-System/blob/master/img/PatientLogin.png" alt="PatientLogin">
 *The login page for patients where they can enter their credentials to access the Patient Panel.*  
 
 ### AdminPanel
-![AdminPanel](./images/AdminPanel.png)  
+<img src="https://github.com/atharvmali/Hospital-Management-System/blob/master/img/AdminPanel.png" alt="AdminPanel">
 *The Admin Panel showing various options to add, update, delete, and view doctor and patient records.*  
 
 ### PatientPanel
-![PatientPanel](./images/PatientPanel.png)  
+<img src="https://github.com/atharvmali/Hospital-Management-System/blob/master/img/PatientPanel.png" alt="PatientPanel">  
 *The Patient Panel where patients can view and manage their own profiles and records.*  
 
 ### PatientProfile
-![PatientProfile](./images/PatientProfile.png)  
+<img src="https://github.com/atharvmali/Hospital-Management-System/blob/master/img/PatientProfile.png" alt="PatientProfile">  
 *The patient profile page displaying personal details and medical information.*  
 
 ### DoctorPanel
-![DoctorPanel](./images/DoctorPanel.png)  
+<img src="https://github.com/atharvmali/Hospital-Management-System/blob/master/img/DoctorPanel.png" alt="DoctorPanel">
 *The Doctor Panel where doctors can view patient records, schedule appointments, and update their details.*  
 
 ### RegistrationPage
-![RegistrationPage](./images/RegistrationPage.png)  
+<img src="https://github.com/atharvmali/Hospital-Management-System/blob/master/img/RegistrationPage.png" alt="RegistrationPage"> 
 *The registration page for new users, allowing doctors and patients to register by providing necessary details.*  
 
 ### DoctorRegistration
-![DoctorRegistration](./images/DoctorRegistration.png)  
+<img src="https://github.com/atharvmali/Hospital-Management-System/blob/master/img/DoctorRegistratioin.png" alt="DoctorRegistration"> 
 *The registration form specifically for doctors, where they enter professional information and credentials.*  
 
 ### PatientRegistration
-![PatientRegistration](./images/PatientRegistration.png)  
+<img src="https://github.com/atharvmali/Hospital-Management-System/blob/master/img/PatientRegistration.png" alt="PatientRegistratioin">  
 *The registration form for patients to provide their personal and medical history for creating a profile.*  
 
 ### DeleteUpdatePatient
-![DeleteUpdatePatient](./images/DeleteUpdatePatient.png)  
+<img src="https://github.com/atharvmali/Hospital-Management-System/blob/master/img/DeleteUpdatePatient.png" alt="DeleteUpdatePatient"> 
 *The interface for deleting or updating patient information from the Admin Panel, with options to modify or remove records.*  
 
 ### AddUpdatePatient
-![AddUpdatePatient](./images/AddUpdatePatient.png)  
+<img src="https://github.com/atharvmali/Hospital-Management-System/blob/master/img/AddUpdatePatient.png" alt="AddUpdatePatient">  
 *The Admin interface for adding new patient records or updating existing ones in the system.*  
 
 ---
